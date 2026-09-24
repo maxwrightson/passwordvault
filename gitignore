@@ -1,0 +1,12 @@
+# Your encrypted vault - never commit this
+vault.dat
+vault.dat.tmp
+
+# PyInstaller build output
+build/
+dist/
+*.spec
+
+# Python cache
+__pycache__/
+*.pyc
